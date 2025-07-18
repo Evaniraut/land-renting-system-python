@@ -1,0 +1,10 @@
+001, Kathmandu, North, 10, 50000, Available
+002, Lalitpur, East, 8, 40000, Available
+003, Bhaktapur, South, 12, 60000, Not Available
+004, Kathmandu, West, 15, 75000, Not Available
+005, Lalitpur, North, 20, 100000, Not Available
+006, Bhaktapur, East, 10, 55000, Not Available
+007, Kathmandu, South, 18, 90000, Not Available
+008, Lalitpur, West, 14, 70000,  Available
+009, Bhaktapur, North, 22, 110000, Not Available
+010, Kathmandu, East, 12, 60000, Not Available
