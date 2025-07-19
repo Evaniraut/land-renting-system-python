@@ -18,7 +18,8 @@ This project demonstrates a structured approach to file handling in Python using
 - Conclusion, bibliography, and appendix with full code listings
   
 ## Files in this Repo  
-- [23047473_EvaniRaut FOC/Documentation.pdf](./23047473_EvaniRaut%20FOC/Documentation.pdf) — Full project report
+- [23047473_EvaniRaut FOC/Documentation.pdf](./23047473_EvaniRaut%20FOC/Documentation.pdf) — Full documentation report
+-  [23047473_EvaniRaut FOC/Development](./23047473_EvaniRaut%20FOC/Development) — Full development reort 
 
 ## Key Learnings
 - Writing modular and maintainable Python code  
