@@ -17,12 +17,8 @@ This project demonstrates a structured approach to file handling in Python using
 - Testing scenarios and outcomes  
 - Conclusion, bibliography, and appendix with full code listings
 
-## 📄 Files in this Repo
-- [Python_File_Handler_Report.pdf](https://github.com/YourUsername/YourRepoName/blob/main/Python_File_Handler_Report.pdf) — Full report with code explanation and results  
-- `main.py` — Main execution logic  
-- `read.py` — Handles reading from a file  
-- `write.py` — Handles writing to a file  
-- `operation.py` — Performs core operations on data  
+## Files in this Repo
+[23047473_EvaniRaut_FOC_Report.pdf](./23047473_EvaniRaut_FOC_Report.pdf) — Full detailed report with testing, pseudocode, and code listings  
 
 ## Key Learnings
 - Writing modular and maintainable Python code  
