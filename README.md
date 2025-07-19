@@ -17,6 +17,8 @@ This project demonstrates a structured approach to file handling in Python using
 - Testing scenarios and outcomes  
 - Conclusion, bibliography, and appendix with full code listings
 
+  - [23047473_EvaniRaut FOC/Documentation.pdf](./23047473_EvaniRaut%20FOC/Documentation.pdf) — Full project report
+
 ## Key Learnings
 - Writing modular and maintainable Python code  
 - Implementing file handling operations  
