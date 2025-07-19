@@ -17,9 +17,6 @@ This project demonstrates a structured approach to file handling in Python using
 - Testing scenarios and outcomes  
 - Conclusion, bibliography, and appendix with full code listings
 
-## Files in this Repo
-- [Documentation.pdf](./Documentation.pdf) — Full detailed project documentation including analysis and results
-
 ## Key Learnings
 - Writing modular and maintainable Python code  
 - Implementing file handling operations  
